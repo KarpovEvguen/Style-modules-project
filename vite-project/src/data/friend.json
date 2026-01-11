@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "avatar": "https://i.pravatar.cc/48?img=1",
+      "name": "Mango",
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "avatar": "https://i.pravatar.cc/48?img=2",
+      "name": "Kiwi",
+      "isOnline": false
+    },
+    {
+      "id": 3,
+      "avatar": "https://i.pravatar.cc/48?img=3",
+      "name": "Ajax",
+      "isOnline": true
+    },
+    {
+      "id": 4,
+      "avatar": "https://i.pravatar.cc/48?img=4",
+      "name": "Jay",
+      "isOnline": true
+    },
+    {
+      "id": 5,
+      "avatar": "https://i.pravatar.cc/48?img=5",
+      "name": "Poly",
+      "isOnline": false
+    }
+  ]
+  
