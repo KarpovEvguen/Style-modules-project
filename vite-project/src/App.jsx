@@ -9,8 +9,7 @@ function App() {
     <FriendList friends={friends} />
     <Statistics
       title="Upload stats"
-      stats={data}
-    />
+      stats={data}/>
     </>
   );
 }
